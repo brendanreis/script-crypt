@@ -1,6 +1,6 @@
 #!/bin/bash
 #
-# Upload audio file with a cover image to Youtube
+# List tracks in a format optimized for YT video descriptions
 # Arg 1 = Audio file extension
 
 EPOCH='jan 1 1970'
